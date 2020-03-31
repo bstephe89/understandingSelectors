@@ -3,6 +3,8 @@ body {
     padding: 2em; 
     justify-content: center;
     align-content: center;
+    font-family: Helvetica, Ariel, sans-serif;
+    background:url(dark_wood.png) repeat;
   }
 
 h1 {
